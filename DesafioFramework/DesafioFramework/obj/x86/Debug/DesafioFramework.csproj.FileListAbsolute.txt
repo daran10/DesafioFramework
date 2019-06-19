@@ -1,0 +1,6 @@
+/Users/macbookair/Projects/DesafioFramework/DesafioFramework/bin/Debug/DesafioFramework.exe
+/Users/macbookair/Projects/DesafioFramework/DesafioFramework/bin/Debug/DesafioFramework.pdb
+/Users/macbookair/Projects/DesafioFramework/DesafioFramework/obj/x86/Debug/DesafioFramework.csprojAssemblyReference.cache
+/Users/macbookair/Projects/DesafioFramework/DesafioFramework/obj/x86/Debug/DesafioFramework.csproj.CoreCompileInputs.cache
+/Users/macbookair/Projects/DesafioFramework/DesafioFramework/obj/x86/Debug/DesafioFramework.exe
+/Users/macbookair/Projects/DesafioFramework/DesafioFramework/obj/x86/Debug/DesafioFramework.pdb
