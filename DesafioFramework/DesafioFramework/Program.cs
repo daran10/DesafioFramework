@@ -10,6 +10,7 @@ public class Program
             Console.WriteLine("Piramide com a palavra framework: Tecle enter ");
             Console.ReadLine();
             int linhas = 15;
+
             for (int i = 0; i < linhas; i++)
             {
                 for (int j = 0; j < linhas - i; j++)
