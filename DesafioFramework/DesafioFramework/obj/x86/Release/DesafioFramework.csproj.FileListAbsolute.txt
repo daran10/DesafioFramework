@@ -1,0 +1,3 @@
+/Users/macbookair/Desktop/DesafioFramework/DesafioFramework/bin/Release/DesafioFramework.exe
+/Users/macbookair/Desktop/DesafioFramework/DesafioFramework/obj/x86/Release/DesafioFramework.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/DesafioFramework/DesafioFramework/obj/x86/Release/DesafioFramework.exe

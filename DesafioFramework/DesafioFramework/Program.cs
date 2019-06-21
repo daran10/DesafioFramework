@@ -1,35 +1,34 @@
 ﻿using System;
 
-namespace DesafioFramework
+public class Program
 {
-    class MainClass
+    public static void Main()
     {
-        public static void Main(string[] args)
+        /*Este é um programa para implementar uma piramide com a palavra "framework" */
         {
-            int i, j, k, l, n;
-            Console.Write("digite um número para formar a pirâmide:   ");
-            n = Convert.ToInt32(Console.ReadLine());
-            for (i = 1; i <=n; i++)
+           
+            Console.WriteLine("Piramide com a palavra framework: Tecle enter ");
+            Console.ReadLine();
+            int linhas = 15;
+            for (int i = 0; i < linhas; i++)
             {
-                    for (j = n - i; j>0; j--)
-                   {
-                       Console.Write("    ");
-                   }
-
-                {
-                    for (k = 1; k < i; k++)
-                    {
-                        Console.Write("framework", k);
-                    }
-                    for(l = i; l > 0; l--)
-                    {
-                        Console.Write(" ", l);
-                    }
-                
-                    Console.WriteLine();
+                for (int j = 0; j < linhas - i; j++)
+                { 
+                    Console.Write("    ");
                 }
-                    
+              
+
+                for (int k = 0; k <= i; k++)
+                {
+                    Console.Write("framework");
+                }
+                
+
+                Console.WriteLine(" ");
             }
+            Console.ReadLine();
         }
+   
     }
-}
+
+} 
